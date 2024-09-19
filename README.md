@@ -80,7 +80,7 @@ select *
 2. ** Retrieve all transactions where the category is clothing and the quantity sold is more than 4 in the month of Nov-2022
 select ***:
 ```sql
-elect *
+select *
 		from retail_sales
 where 
 		category= 'Clothing' 
